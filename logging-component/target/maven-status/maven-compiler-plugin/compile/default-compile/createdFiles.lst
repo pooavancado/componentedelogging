@@ -1,0 +1,3 @@
+com\example\logging\Loggable.class
+com\example\logging\LoggingHandler.class
+com\example\logging\MethodLogger.class
